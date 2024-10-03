@@ -4,5 +4,5 @@ raining = int(input("а улице идет дождь? (0/1):
 if raining == 1
     print('идет дождь, возмите зонтик')
 elif raining == 0
-    print('дождя нет!')
+    print('дождя нет!')ьь
 
